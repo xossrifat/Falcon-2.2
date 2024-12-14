@@ -1,4 +1,6 @@
-if (Process.GetProcessesByName("HD-Player").Length == 0)
+{
+"data" = "if (Process.GetProcessesByName("HD-Player").Length == 0)
 {
     label23.Text = "Emulator Not Found!";
+}"
 }
